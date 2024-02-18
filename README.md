@@ -18,6 +18,7 @@ Use Node.js and Postgres DB to demo web page how to create security db which pro
   ### Clone File (terminal)
   ~~~bash
   git clone https://github.com/as183789043/Authentication-and-Security.git
+  cd Authentication-and-Security
   ~~~
   
   ### Create Databases Table Schema (sql query tool)
