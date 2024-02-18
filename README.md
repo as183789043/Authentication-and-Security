@@ -1,7 +1,7 @@
 # Authentication-and-Security
 Use Node.js and Postgres DB to demo web page how to create security db which protect user data
 
-## Checkout branch to get other level securrity
+## Checkout branch to get other level security
 
 | Branch      | DB Security | Store Secert Config(.ENV File) | Cache and Session | Oauth |
 | ----------- | ----------- |----------- |----------- |----------- |
