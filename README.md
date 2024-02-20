@@ -10,6 +10,7 @@ Use Node.js and Postgres DB to demo web page how to create security db which pro
 | session   | Salt Pasword  | YES | NO | NO|
 | dotenv   | Salt Pasword  | YES | YES | NO|
 | OAuth   | Salt Pasword  | YES | YES | YES (Google)|
+| final   | Salt Pasword  | YES | YES | YES (Google)|
 --- 
 
 ## Quick Start 
