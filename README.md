@@ -3,13 +3,13 @@ Use Node.js and Postgres DB to demo web page how to create security db which pro
 
 ## Checkout branch to get other level security
 
-| Branch      | DB Security | Cookies and Session | Store Secert Config(.ENV File) | Oauth |
+| Branch      | DB Security | Cookies and Session | Store Secert Config(.ENV File) | OAuth |
 | ----------- | ----------- |----------- |----------- |----------- |
 | main        | Text is not encrypted | NO | NO | NO|
 | salt   | Salt Pasword  | NO | NO | NO|
 | session   | Salt Pasword  | YES | NO | NO|
 | dotenv   | Salt Pasword  | YES | YES | NO|
-
+| OAuth   | Salt Pasword  | YES | YES | YES (Google)|
 --- 
 
 ## Quick Start 
